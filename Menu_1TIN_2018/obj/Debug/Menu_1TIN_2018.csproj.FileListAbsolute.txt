@@ -1,0 +1,49 @@
+G:\LP\Algoritmos\C#\Menu_1TIN_2018\Menu_1TIN_2018\bin\Debug\Menu_1TIN_2018.exe.config
+G:\LP\Algoritmos\C#\Menu_1TIN_2018\Menu_1TIN_2018\bin\Debug\Menu_1TIN_2018.exe
+G:\LP\Algoritmos\C#\Menu_1TIN_2018\Menu_1TIN_2018\bin\Debug\Menu_1TIN_2018.pdb
+G:\LP\Algoritmos\C#\Menu_1TIN_2018\Menu_1TIN_2018\obj\Debug\Menu_1TIN_2018.csprojResolveAssemblyReference.cache
+G:\LP\Algoritmos\C#\Menu_1TIN_2018\Menu_1TIN_2018\obj\Debug\Menu_1TIN_2018.exe
+G:\LP\Algoritmos\C#\Menu_1TIN_2018\Menu_1TIN_2018\obj\Debug\Menu_1TIN_2018.pdb
+D:\LP\Algoritmos\C#\Menu_1TIN_2018\Menu_1TIN_2018\bin\Debug\Menu_1TIN_2018.exe.config
+D:\LP\Algoritmos\C#\Menu_1TIN_2018\Menu_1TIN_2018\obj\Debug\Menu_1TIN_2018.exe
+D:\LP\Algoritmos\C#\Menu_1TIN_2018\Menu_1TIN_2018\obj\Debug\Menu_1TIN_2018.pdb
+D:\LP\Algoritmos\C#\Menu_1TIN_2018\Menu_1TIN_2018\bin\Debug\Menu_1TIN_2018.exe
+D:\LP\Algoritmos\C#\Menu_1TIN_2018\Menu_1TIN_2018\bin\Debug\Menu_1TIN_2018.pdb
+D:\LP\Algoritmos\C#\Menu_1TIN_2018\Menu_1TIN_2018\obj\Debug\Menu_1TIN_2018.csprojResolveAssemblyReference.cache
+E:\LP\Codigos C#\Menu_1TIN_2018\Menu_1TIN_2018\bin\Debug\Menu_1TIN_2018.exe.config
+E:\LP\Codigos C#\Menu_1TIN_2018\Menu_1TIN_2018\bin\Debug\Menu_1TIN_2018.exe
+E:\LP\Codigos C#\Menu_1TIN_2018\Menu_1TIN_2018\bin\Debug\Menu_1TIN_2018.pdb
+E:\LP\Codigos C#\Menu_1TIN_2018\Menu_1TIN_2018\obj\Debug\Menu_1TIN_2018.csprojResolveAssemblyReference.cache
+E:\LP\Codigos C#\Menu_1TIN_2018\Menu_1TIN_2018\obj\Debug\Menu_1TIN_2018.csproj.CoreCompileInputs.cache
+E:\LP\Codigos C#\Menu_1TIN_2018\Menu_1TIN_2018\obj\Debug\Menu_1TIN_2018.exe
+E:\LP\Codigos C#\Menu_1TIN_2018\Menu_1TIN_2018\obj\Debug\Menu_1TIN_2018.pdb
+G:\LP\Codigos C#\Menu_1TIN_2018\Menu_1TIN_2018\obj\Debug\Menu_1TIN_2018.csprojResolveAssemblyReference.cache
+G:\LP\Codigos C#\Menu_1TIN_2018\Menu_1TIN_2018\obj\Debug\Menu_1TIN_2018.exe
+G:\LP\Codigos C#\Menu_1TIN_2018\Menu_1TIN_2018\obj\Debug\Menu_1TIN_2018.pdb
+G:\LP\Codigos C#\Menu_1TIN_2018\Menu_1TIN_2018\bin\Debug\Menu_1TIN_2018.exe.config
+G:\LP\Codigos C#\Menu_1TIN_2018\Menu_1TIN_2018\bin\Debug\Menu_1TIN_2018.exe
+G:\LP\Codigos C#\Menu_1TIN_2018\Menu_1TIN_2018\bin\Debug\Menu_1TIN_2018.pdb
+C:\Users\giova\Downloads\Menu_1TIN_2018\Menu_1TIN_2018\bin\Debug\Menu_1TIN_2018.exe.config
+C:\Users\giova\Downloads\Menu_1TIN_2018\Menu_1TIN_2018\bin\Debug\Menu_1TIN_2018.exe
+C:\Users\giova\Downloads\Menu_1TIN_2018\Menu_1TIN_2018\bin\Debug\Menu_1TIN_2018.pdb
+C:\Users\giova\Downloads\Menu_1TIN_2018\Menu_1TIN_2018\obj\Debug\Menu_1TIN_2018.csprojResolveAssemblyReference.cache
+C:\Users\giova\Downloads\Menu_1TIN_2018\Menu_1TIN_2018\obj\Debug\Menu_1TIN_2018.csproj.CoreCompileInputs.cache
+C:\Users\giova\Downloads\Menu_1TIN_2018\Menu_1TIN_2018\obj\Debug\Menu_1TIN_2018.exe
+C:\Users\giova\Downloads\Menu_1TIN_2018\Menu_1TIN_2018\obj\Debug\Menu_1TIN_2018.pdb
+C:\Users\giova\Downloads\programas etec\Menu_1TIN_2018\Menu_1TIN_2018\bin\Debug\Menu_1TIN_2018.exe.config
+C:\Users\giova\Downloads\programas etec\Menu_1TIN_2018\Menu_1TIN_2018\bin\Debug\Menu_1TIN_2018.exe
+C:\Users\giova\Downloads\programas etec\Menu_1TIN_2018\Menu_1TIN_2018\bin\Debug\Menu_1TIN_2018.pdb
+C:\Users\giova\Downloads\programas etec\Menu_1TIN_2018\Menu_1TIN_2018\obj\Debug\Menu_1TIN_2018.csprojResolveAssemblyReference.cache
+C:\Users\giova\Downloads\programas etec\Menu_1TIN_2018\Menu_1TIN_2018\obj\Debug\Menu_1TIN_2018.csproj.CoreCompileInputs.cache
+C:\Users\giova\Downloads\programas etec\Menu_1TIN_2018\Menu_1TIN_2018\obj\Debug\Menu_1TIN_2018.exe
+C:\Users\giova\Downloads\programas etec\Menu_1TIN_2018\Menu_1TIN_2018\obj\Debug\Menu_1TIN_2018.pdb
+G:\LP\Algoritmos\C#\1TIN_MenuFInal_AmandaMorettini_GiovaneVitorio\Menu_1TIN_2018\bin\Debug\Menu_1TIN_2018.exe.config
+G:\LP\Algoritmos\C#\1TIN_MenuFInal_AmandaMorettini_GiovaneVitorio\Menu_1TIN_2018\obj\Debug\Menu_1TIN_2018.exe
+G:\LP\Algoritmos\C#\1TIN_MenuFInal_AmandaMorettini_GiovaneVitorio\Menu_1TIN_2018\obj\Debug\Menu_1TIN_2018.pdb
+E:\1°Modulo\LP\Algoritmos\C#\1TIN_MenuFInal_AmandaMorettini_GiovaneVitorio\Menu_1TIN_2018\bin\Debug\Menu_1TIN_2018.exe.config
+E:\1°Modulo\LP\Algoritmos\C#\1TIN_MenuFInal_AmandaMorettini_GiovaneVitorio\Menu_1TIN_2018\bin\Debug\Menu_1TIN_2018.exe
+E:\1°Modulo\LP\Algoritmos\C#\1TIN_MenuFInal_AmandaMorettini_GiovaneVitorio\Menu_1TIN_2018\bin\Debug\Menu_1TIN_2018.pdb
+E:\1°Modulo\LP\Algoritmos\C#\1TIN_MenuFInal_AmandaMorettini_GiovaneVitorio\Menu_1TIN_2018\obj\Debug\Menu_1TIN_2018.csproj.CoreCompileInputs.cache
+E:\1°Modulo\LP\Algoritmos\C#\1TIN_MenuFInal_AmandaMorettini_GiovaneVitorio\Menu_1TIN_2018\obj\Debug\Menu_1TIN_2018.exe
+E:\1°Modulo\LP\Algoritmos\C#\1TIN_MenuFInal_AmandaMorettini_GiovaneVitorio\Menu_1TIN_2018\obj\Debug\Menu_1TIN_2018.pdb
+E:\1°Modulo\LP\Algoritmos\C#\1TIN_MenuFInal_AmandaMorettini_GiovaneVitorio\Menu_1TIN_2018\obj\Debug\Menu_1TIN_2018.csprojAssemblyReference.cache
